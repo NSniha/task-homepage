@@ -17,10 +17,6 @@ No frameworks. No build step. Just open it and it works.
 
 <br />
 
-[**🌐 Live Demo**](YOUR-LIVE-DEMO-LINK) &nbsp;•&nbsp; [**✨ Features**](#-features) &nbsp;•&nbsp; [**🚀 Getting Started**](#-getting-started) &nbsp;•&nbsp; [**🖼️ Customize**](#️-customize-the-images)
-
-<br />
-
 <img src="assets/images/dashboard-preview.webp" alt="Zentask homepage preview" width="90%" />
 
 </div>
@@ -34,19 +30,6 @@ No frameworks. No build step. Just open it and it works.
 The goal of this project was to practice turning a visual design into clean, accessible, production-style front-end code, without relying on any framework or bundler.
 
 > **Note:** This is a static UI project, not a working task-management platform. Login, sign-up, contact and billing flows are demo-only.
-
-<br />
-
-## 📑 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#️-tech-stack)
-- [Getting Started](#-getting-started)
-- [Customize the Images](#️-customize-the-images)
-- [Project Structure](#-project-structure)
-- [Accessibility & SEO](#-accessibility--seo)
-- [Production Notes](#-production-notes)
-- [Author](#-author)
 
 <br />
 
