@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/images/zentask-logo.svg" alt="Zentask logo" width="110" />
-
 # Zentask — Responsive Single-Screen Homepage
 
 **A polished, animated SaaS homepage built with pure HTML, CSS & JavaScript.**
